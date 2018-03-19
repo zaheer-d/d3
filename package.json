@@ -1,0 +1,23 @@
+{
+  "name": "udemy-master-d3",
+  "version": "1.0.0",
+  "description": "master d3 excerises",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaheer-d/d3.git"
+  },
+  "author": "zaheer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaheer-d/d3/issues"
+  },
+  "homepage": "https://github.com/zaheer-d/d3#readme"
+}
